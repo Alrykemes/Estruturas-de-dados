@@ -6,7 +6,7 @@ O Nó define como a gente consegue acessar e manipular os elementos da estrutura
 <img src="../Assets/class-No1.png" alt="Classe-No">
 <p>Este print retorna o valor 10 do no1, sendo acessado pelo no2.</p>
 <br>
-<a href="https://github.com/Alrykemes/Estruturas-de-dados/No">
+<a href="https://github.com/Alrykemes/Estruturas-de-dados/blob/main/No/No.java">
 <h3>Acesse o arquivo no NÓ neste link.</h3>
 </a>
 
