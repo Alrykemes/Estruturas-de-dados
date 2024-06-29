@@ -4,6 +4,6 @@
 <br>
 <h3>Clique na estrutura abaixo:</h3>
 
-<a href="https://github.com/Alrykemes/Estruturas-de-dados/No">
+<a href="https://github.com/Alrykemes/Estruturas-de-dados/blob/main/No/NO.md">
 <h3>Nó</h3>
 </a>
